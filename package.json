@@ -1,9 +1,13 @@
 {
   "name": "earth-theme",
-  "displayName": "Earth Theme",
-  "description": "Personal Theme for Toprak Ekin Yüksel",
-  "version": "0.0.1",
+  "displayName": "Earth's Theme",
+  "description": "Simple cozy but modern theme.",
+  "version": "1.0.0",
+  "publisher": "ekinyuksel12",
+  "license": "MIT",
   "repository": "earth-theme",
+  "keywords": ["earth", "cozy", "modern", "vibrant", "dark"],
+  "icon": "./icon.jpeg",
   "engines": {
     "vscode": "^1.109.0"
   },
@@ -13,7 +17,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Earth Theme",
+        "label": "Earth's Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Earth Theme-color-theme.json"
       }
