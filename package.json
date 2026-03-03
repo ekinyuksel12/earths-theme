@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "publisher": "ekinyuksel12",
   "license": "MIT",
-  "repository": "earths-theme",
+  "repository": "https://github.com/ekinyuksel12/earths-theme",
   "keywords": ["earth", "cozy", "modern", "vibrant", "dark"],
   "icon": "./icon.jpeg",
   "engines": {
